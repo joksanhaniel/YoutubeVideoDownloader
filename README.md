@@ -5,7 +5,7 @@ this aplication was developed by murallasoft Joksan Dev
 
 
 
-Instrucions
+Instructions
 
 
 
